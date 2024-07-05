@@ -1,0 +1,40 @@
+1. Acceptance of Terms
+By using ModWatch (the "Bot"), you agree to comply with and be bound by these Terms of Service ("Terms"). If you do not agree to these Terms, you may not use the Bot.
+
+2. Description of Service
+The Bot uses OpenAI's Moderation API to log any inappropriate language, identify potential bot accounts, and provide other security features to enhance the safety of your server.
+
+3. User Conduct
+You agree to use the Bot only for lawful purposes and in accordance with these Terms. You must comply with Discord's Terms of Service and ensure that all users in your server do the same.
+
+4. Data Collection and Use
+The Bot may collect and store certain information about users, including but not limited to messages containing inappropriate language, potential bot account activities, and other security-related data. Please refer to our Privacy Policy for more details on data collection and use.
+
+5. Prohibited Activities
+You agree not to:
+
+Use the Bot for any illegal or unauthorized purpose.
+Interfere with or disrupt the Bot or the servers or networks connected to the Bot.
+Modify, adapt, hack, or reverse engineer the Bot.
+
+6. Termination
+We reserve the right to terminate or suspend your access to the Bot at any time, without notice, for conduct that we believe violates these Terms or is harmful to other users of the Bot, us, or third parties, or for any other reason.
+
+7. Disclaimer of Warranties
+The Bot is provided on an "as-is" and "as-available" basis. We make no warranties, expressed or implied, regarding the Bot, including but not limited to its reliability, availability, or suitability for any particular purpose.
+
+8. Limitation of Liability
+To the maximum extent permitted by law, we shall not be liable for any indirect, incidental, special, consequential, or punitive damages, or any loss of profits or revenues, whether incurred directly or indirectly, or any loss of data, use, goodwill, or other intangible losses resulting from:
+
+Your use of or inability to use the Bot.
+Any unauthorized access to or use of our servers and/or any personal information stored therein.
+Any interruption or cessation of transmission to or from the Bot.
+
+9. Changes to Terms
+We reserve the right to modify these Terms at any time. We will notify you of any changes by posting the new Terms on our website and/or through the Bot. Your continued use of the Bot after such changes constitutes your acceptance of the new Terms.
+
+10. Governing Law
+These Terms shall be governed by and construed in accordance with the laws of British Columbia, without regard to its conflict of law principles.
+
+11. Contact Information
+If you have any questions about these Terms, please contact us by joining our support server: https://discord.gg/Bn7MZ9dGsc
