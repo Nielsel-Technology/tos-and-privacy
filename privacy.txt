@@ -1,0 +1,37 @@
+1. Introduction
+We at Nielsel Technology Inc ("we", "us", or "our") are committed to protecting your privacy. This Privacy Policy explains how we collect, use, and disclose information when you use ModWatch (the "Bot").
+
+2. Information We Collect
+
+Messages: The Bot logs messages containing inappropriate language to maintain server safety.
+User Activity: The Bot tracks activities to identify potential bot accounts and other security-related data.
+3. How We Use Information
+
+Moderation: To log and monitor inappropriate language.
+Security: To identify and manage potential bot accounts and other security threats.
+Improvement: To improve the Bot's performance and user experience.
+4. Data Retention
+We retain the collected data for as long as necessary to fulfill the purposes outlined in this Privacy Policy unless a longer retention period is required or permitted by law.
+
+5. Data Sharing and Disclosure
+We do not share or disclose your information except as follows:
+
+With Your Consent: We may share your information with third parties if you have given us your explicit consent.
+For Legal Reasons: We may share your information if we believe it is necessary to comply with a legal obligation, protect our rights, or prevent fraud or other illegal activity.
+6. Data Security
+We implement reasonable security measures to protect the information we collect from unauthorized access, disclosure, alteration, or destruction.
+
+7. Your Rights
+You have the right to access, update, or delete your personal information. If you wish to exercise these rights, please contact us by joining our server: https://discord.gg/Bn7MZ9dGsc
+
+8. Changes to This Privacy Policy
+We may update this Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on our website and/or through the Bot. Your continued use of the Bot after such changes constitutes your acceptance of the new Privacy Policy.
+
+9. Contact Us
+If you have any questions or concerns about this Privacy Policy, please contact us by joining our server: https://discord.gg/Bn7MZ9dGsc
+
+10. Compliance with Discord Terms of Service
+All users and server owners are required to follow and enforce Discord's Terms of Service. Failure to do so may result in termination of access to the Bot.
+
+11. Minors
+Our Bot is not intended for use by individuals under the age of 13. We do not knowingly collect personal information from children under 13. If we become aware that we have collected personal information from a child under 13, we will take steps to delete such information.
